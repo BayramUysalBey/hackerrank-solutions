@@ -23,7 +23,7 @@ Print the two lines as described above.
 
 Sample Input 0
 4
-
+3
 Sample Output 0
 1
 1.33333333333"""
